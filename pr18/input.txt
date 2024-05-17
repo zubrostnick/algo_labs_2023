@@ -1,0 +1,7 @@
+ADD one 1
+ADD two 2
+ADD three 3
+CHANGE two 5
+POP
+POP
+POP
