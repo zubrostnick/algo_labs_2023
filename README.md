@@ -1,6 +1,7 @@
 ## This repository contains a collection of tasks and exercises that I have completed for study purposes while completing Algorithms and Data Stuctures course.  
 The primary goal of this repository is to document my learning journey, archive solved problems, and address to this files in case of material revision.
-~~Covered Topics:  ~~
+
+	**Covered Topics:	**
 1) Algorithm Complexity. Execution Time
 2) Algorithm Complexity. Asymptotic Complexity Estimation
 3) Linear and Binary Search
