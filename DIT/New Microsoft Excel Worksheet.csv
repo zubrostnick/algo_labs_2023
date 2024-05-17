@@ -1,0 +1,7 @@
+﻿sky,air,humid,wind,attack
+sunny,warm,normal,strong,1
+sunny,warm,high,strong,1
+rainy,cold,high,strong,0
+sunny,warm,high,strong,1
+sunny,warm,normal,weak,0
+rainy,warm,high,strong,1

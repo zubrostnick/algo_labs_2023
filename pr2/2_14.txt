@@ -1,0 +1,89 @@
+2.14
+
+--------a------------
+def a(n):                   | O(n)
+    s = 0                   | O(1)
+    for i in range(n + 1):  | O(n)
+        s += i              | O(n)
+    return s                | O(1)
+
+--------b-------------
+
+def b(n):                   | O(n)
+    s = 0                   | O(1)
+    for i in range(n + 1):  | O(n)
+        s += i*i            | O(n)
+    return s                | O(1)
+
+------c----------------
+def c(n, a):                | O(n)
+    s = 0                   | O(1)
+    a_i = a                 | O(1)
+    for _ in range(n+1):    | O(n)
+        s += a_i            | O(n)
+        a_i *= a_i          | O(n)
+    return s                | O(1)
+
+---------d---------------
+************************************
+def power(base, exponent):      | O(n)
+    result = 1                  | O(1)
+    for i in range(exponent):   | O(n)
+        result *= base          | O(n)
+    return result               | O(1)
+************************************
+
+def d(n):                         | O(n^2)
+    s = 0
+    for i in range(n+1):          | O(n)
+        s += power(i, i)          | O(n)*O(n) = O(n^2)
+    return s
+
+----------e-------------------
+def e(n):                         | O(n)
+    result = 1                    | O(1)
+    for i in range(n+1):          | O(n)
+        result *= 1/(1+i)         | O(n)
+    return result                 | O(1)
+
+----------f-------------------
+
+def f(n):                         | O(n)
+    result = 1                    | O(1)
+    fact = 1                      | O(1)
+    for i in range(n+1):          | O(n)
+        fact *= i                 | O(n)
+        result *= 1/(1+fact)      | O(n)
+    return result                 | O(1)
+
+----------g--------------------
+
+def g(n):                         | O(n)
+    result = 1                    | O(1)
+    pow_i = 1                     | O(1)
+    fac_i = 1                     | O(1)
+
+     for i in range(n+1):                | O(n)
+        fac_i *= i                       | O(n)
+        result *= pow_i / (1 + fac_i)    | O(n)
+        pow_i *= pow_i                   | O(n)
+
+    return result                | O(1)
+
+----------f---------------------
+
+def h(n, m):                          | O(nm)
+    result = 1                        | O(1)
+    for i in range(n+1):              | O(n)
+        result *= 1/(1+power(i, m))   | O(n) * O(m) = O(nm)
+    return result                     | O(1)
+
+----------i----------------------
+
+def i(n):                                 | O(n^2)
+    result = 1
+
+    for j in range(n+1):                  | O(n)
+        result *= 1/(1+power(j, j))       | O(n)*O(n) = O(n^2)
+
+    return result

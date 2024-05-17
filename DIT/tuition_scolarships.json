@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Fond International scholarship fund",
+    "deadline": "no deadline",
+    "website": "https://www.th-deg.de/en/study-with-us/funding",
+    "prerequisits": "Applications may be handed in to the International Office; there is no defined application deadline.Uniquely qualified non-German students for a period of study at a Bavarian university. German students during a semester abroad within the framework of their studies at a Bavarian university. Covering letter, explaining the reasons for application, CV/resume with passport-size photograph, current grade sheet, financial plan"
+  },
+  {
+    "name": "STIBET scholarship fund ",
+    "deadline": "no deadline",
+    "website": "https://www.daad.de/en/",
+    "prerequisits": "Current grade sheet (transcript of records), with average grade, Financial plan CV (tabular) with photo, Short covering letter"
+  },
+  {
+    "name": "BayHost scholarship fund ",
+    "deadline": "May 10, 2024",
+    "website": "https://www.uni-regensburg.de/bayhost/english-1/bayhost/english/scholarships/index.html",
+    "prerequisits": "You need to fill the form on: https://stipsys.uni-passau.de/public/application.xhtml?pID=622"
+  },
+  {
+    "name": "BayBIDS scholarship fund ",
+    "deadline": "30. June 2024",
+    "website": "https://www.baybids.de/",
+    "prerequisits": "You are about to start an undergraduate degree program at one of the state or church-run Bavarian universities, appropriate German language skills (recognized language exams), registration on the BayBIDS online portal"
+  },
+  {
+    "name": "BAf\u00f6G funds",
+    "deadline": "no deadline",
+    "website": "https://www.baf\u00f6g.de/bafoeg/de/home/home_node.html",
+    "prerequisits": "This financial support programme is for German or international students who are fully-integrated and have their long-term perspectives in Germany (e.g. European citizens or students with long term residential visas). Grants are based on personal assets, wages earned and parental or partner income. More information can be found (in German) at www.bafoeg.de."
+  },
+  {
+    "name": "The Begabtenf\u00f6rderungswerke Endowment  ",
+    "deadline": "no deadline",
+    "website": "https://www.bmbf.de/bmbf/en/education/bafoeg/the-german-federal-training-as-ides-educational-opportunities.html",
+    "prerequisits": "It targets German, EU and other international students who are entitled to permanent residence in Germany within the framework of Article 8 in the Federal Training Assistance Act, otherwise known as BAf\u00f6G. The applicant student must be enrolled at a public or state-recognized institution of higher education in Germany."
+  },
+  {
+    "name": "Deutschlandstipendium scholarship fund ",
+    "deadline": "15. February 2024",
+    "website": "https://www.deutschlandstipendium.de",
+    "prerequisits": "The application for the funding round April 2024 to March 2025 runs from 15 December 2023 to 15 February 2024 via the Primuss Portal. Simply log in and then select the following path:Mein Studium / My studies - Aufrufen von Antr\u00e4ge und Nachrichten / Select Applications and News - Antrag/Formular ausw\u00e4hlen / Select Application/Form - Stipendium - Bewerbung Deutschlandstipendium / Scholarship - Select Application Deutschlandstipendium. Please follow steps 1 to 4 and follow the instructions."
+  },
+  {
+    "name": "Vector scholarship fund ",
+    "deadline": "30 May 2024",
+    "website": "https://www.th-deg.de/Studieninteressierte/Finanzierung%20und%20Stipendien/vector-stipendium.pdf",
+    "prerequisits": "You're studying Electrical Engineering & Information Technology (Bachelor), Applied Computer Science (Bachelor), Cyber Security (Bachelor), Artificial Intelligence (Bachelor), Electrical Engineering & Information Technology (Master), Automotive Electronics (Master) or Applied Computer Science (Master). You are at least in the second semester of your Bachelor's or first semester of your Master's programm. Please note: You need to have language skills in German - Programming language at Vector is German"
+  },
+  {
+    "name": "Oskar-Karl-Forster-Scholarship ",
+    "deadline": "no deadline",
+    "website": "https://www.th-deg.de/Studieninteressierte/Finanzierung%20und%20Stipendien/oskar-karl-forster-stipendium.pdf",
+    "prerequisits": "Applicants must have completed at least two semesters at the Deggendorf Institute of Technology and, if possible, should not have completed the sixth semester. The allocation is not bound to denomination, faculty or nationality. An essential part of the application is a statement of costs. The written application must be accompanied by an (informal) endorsement of the responsible university professor regarding the expenses and previous academic achievements."
+  }
+]
